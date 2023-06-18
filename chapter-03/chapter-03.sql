@@ -118,6 +118,7 @@ WHERE school LIKE '%Roos%'
 ORDER BY hire_date DESC;
 
 -- Try It Yourself
+----------------------------------------------------------------------------
 
 -- Write a query that lists the schools in alphabetical order along with teachers ordered by last name A–Z
 
