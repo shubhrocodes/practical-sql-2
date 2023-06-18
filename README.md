@@ -1,4 +1,4 @@
-# Practical SQL, 2nd Edition Book Solutions
+# Practical SQL, 2nd Edition - Solutions Repository
 
 This repository contains solutions, practice exercises, and examples for the book "Practical SQL, 2nd Edition" by Anthony DeBarros. The solutions provided here are intended to help readers understand and apply the concepts discussed in the book.
 
